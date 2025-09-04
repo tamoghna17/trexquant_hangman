@@ -25,9 +25,9 @@ pip install -r requirements.txt
 ```
 **Run the notebook**
 
-*Open notebooks/hangman_ngram.ipynb in Jupyter
-*Train n-gram models using the dictionary (words_250000_train.txt)
-*Run the solver on sample Hangman words to see predictions step by step
+* Open notebooks/hangman_ngram.ipynb in Jupyter
+* Train n-gram models using the dictionary (words_250000_train.txt)
+* Run the solver on sample Hangman words to see predictions step by step
 
 **Requirements**
 
